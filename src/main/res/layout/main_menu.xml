@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainMenu">
+
+    <ImageView
+        android:id="@+id/mainmenu_imageview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/tetris_xhdpi"
+        android:contentDescription="@string/mainmenu_background_imageview_description" />
+
+    <Button
+        android:id="@+id/mainmenu_play_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/mainmenu_playbutton_paddingbot"
+        android:text="@string/mainmenu_playbutton_text"
+        android:textColor="@color/mainmenu_playbutton_textandborder_color"
+        android:textSize="@dimen/mainmenu_playbutton_textsize"
+        android:background="#00000000"
+        android:textStyle="bold" />
+
+</RelativeLayout>

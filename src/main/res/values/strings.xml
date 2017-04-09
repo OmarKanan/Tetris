@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tetris</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="game_imageview_description">Background Image</string>
+    <string name="move_left_imageview_description">Move left</string>
+    <string name="move_right_imageview_description">Move right</string>
+    <string name="mainmenu_background_imageview_description">Main menu background</string>
+    <string name="mainmenu_playbutton_text">" Play Tetris ! "</string>
+</resources>

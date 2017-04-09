@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="opiece_color">#ff585b</color>
+    <color name="ipiece_color">#ff7dff</color>
+    <color name="tpiece_color">#2853ff</color>
+    <color name="spiece_color">#89fcff</color>
+    <color name="zpiece_color">#5dff77</color>
+    <color name="lpiece_color">#faff43</color>
+    <color name="jpiece_color">#ffa838</color>
+
+    <color name="mainmenu_playbutton_textandborder_color">#ff6339</color>
+    <color name="grid_color">#0dfdfbff</color>
+
+</resources>
